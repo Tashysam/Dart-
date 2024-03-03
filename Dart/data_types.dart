@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 void main() {
   List<String> users = ["Daniel", "wozaah", "wangari", "Malon", "Joshuu"]; //string is used to represent text
   print(users);
